@@ -1,0 +1,7 @@
+.colorIcon{
+    color: rgb(249, 218, 227);
+}
+
+.colorIcon:hover{
+    color: red;
+}
